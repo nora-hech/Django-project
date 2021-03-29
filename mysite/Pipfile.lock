@@ -18,10 +18,10 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:339dc09518b07e2fa7eda5450740925974815557727d6bd35d319c1524a04a4c",
-                "sha256:6d58c986d22b038c8c0df30d639f23a3e6d172a05c3583e766f4c0b785c0986a"
+                "sha256:1a4995114262bffbc2413b159f2a1a480c969de6e6eb13ee966d470af86af59c",
+                "sha256:719a74fb9e33b9bd44cc7f3a8d94bc35e4049deebe19ba7d8e108280cfd59830"
             ],
-            "version": "==2018.10.15"
+            "version": "==2020.12.5"
         },
         "chardet": {
             "hashes": [
@@ -55,17 +55,18 @@
         },
         "pygments": {
             "hashes": [
-                "sha256:78f3f434bcc5d6ee09020f92ba487f95ba50f1e3ef83ae96b9d5ffa1bab25c5d",
-                "sha256:dbae1046def0efb574852fab9e90209b23f556367b5a320c0bcb871c77c3e8cc"
+                "sha256:bc9591213a8f0e0ca1a5e68a479b4887fdc3e75d0774e5c71c31920c427de435",
+                "sha256:df49d09b498e83c1a73128295860250b0b7edd4c723a32e9bc0d295c7c2ec337"
             ],
             "index": "pypi",
-            "version": "==2.2.0"
+            "version": "==2.7.4"
         },
         "pytz": {
             "hashes": [
-                "sha256:8e0f8568c118d3077b46be7d654cc8167fa916092e28320cde048e54bfc9f1e6"
+                "sha256:83a4a90894bf38e243cf052c8b58f381bfe9a7a483f6a9cab140bc7f702ac4da",
+                "sha256:eb10ce3e7736052ed3623d49975ce333bcd712c7bb19a58b9e2089d4057d0798"
             ],
-            "version": "==2018.7"
+            "version": "==2021.1"
         },
         "requests": {
             "hashes": [
@@ -77,10 +78,10 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:61bf29cada3fc2fbefad4fdf059ea4bd1b4a86d2b6d15e1c7c0b582b9752fe39",
-                "sha256:de9529817c93f27c8ccbfead6985011db27bd0ddfcdb2d86f3f663385c6a9c22"
+                "sha256:2393a695cd12afedd0dcb26fe5d50d0cf248e5a66f75dbd89a3d4eb333a61af4",
+                "sha256:a637e5fae88995b256e3409dc4d52c2e2e0ba32c42a6365fee8bbd2238de3cfb"
             ],
-            "version": "==1.24.1"
+            "version": "==1.24.3"
         }
     },
     "develop": {}
